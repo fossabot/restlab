@@ -1,4 +1,6 @@
 # restlab
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjavagrails%2Frestlab.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjavagrails%2Frestlab?ref=badge_shield)
+
 REST api Example Using Grails 3.2.2
 <br/> Need to configure database username, password and url according to your database server in application.yml file
 <br/> I use MySql server in this project
@@ -61,3 +63,7 @@ Body Content JSON
 {"id":1, "lat": 23.7897,"lon": 90.3929,"postalCode": "1212","stateProvince": "Dhaka","streetAddress": "23 Gulshan","streetAddressLine2": "lane 13"}
 ```
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjavagrails%2Frestlab.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjavagrails%2Frestlab?ref=badge_large)
